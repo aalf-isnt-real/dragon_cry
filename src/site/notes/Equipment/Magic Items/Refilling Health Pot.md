@@ -3,3 +3,4 @@
 ---
 
 refills after 24h of being used
+upgradeable
