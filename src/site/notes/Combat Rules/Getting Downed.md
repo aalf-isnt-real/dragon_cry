@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/combat-rules/getting-downed/"}
 ---
 
-Whenever downed in [[Combat\|Combat]], start rolling death saves, unless attack was nonlethal
+In combat, whenever you reach 0 hit points, you get Downed and receive the Dying condition
 
 DEATH SAVING THROWS: ROLL D20(?)
 eventually get a +1, a +2 and a +3

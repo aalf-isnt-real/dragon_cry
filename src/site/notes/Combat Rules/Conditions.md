@@ -3,3 +3,6 @@
 ---
 
 There are many conditions that can occur in [[Combat\|Combat]] 
+
+[Dying](Getting%20Downed.md)
+
