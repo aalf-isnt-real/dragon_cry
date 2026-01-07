@@ -4,6 +4,8 @@
 
 # Jan 7th 2026
 Updated [[Combat Rules/Getting Downed\|Getting Downed]], added conditions mentioned in such document
+fuck why do the links not work on the wiki they work in obsidian
+fuck you guys i guess lmfao
 
 -----
 # Jan 6th 2026
