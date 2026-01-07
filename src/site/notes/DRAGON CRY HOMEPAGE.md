@@ -3,6 +3,12 @@
 ---
 
 # Jan 7th 2026
+Added the Adventuring Day folder
+Added some suggestions
+Added things in the To-Add-List channel or sent them to the Obsidian To Add Document
+Added some Origins
+
+
 Updated [[Combat Rules/Getting Downed\|Getting Downed]], added conditions mentioned in such document
 fuck why do the links not work on the wiki they work in obsidian
 fuck you guys i guess lmfao
