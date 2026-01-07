@@ -10,3 +10,6 @@ REST ACTIONS:
 tend wounds
 repair
 regain resource
+craft
+
+need more
