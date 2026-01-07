@@ -6,10 +6,7 @@
 CURRENCY:
 Base 100
 
-Beads -> Chimes -> Bells -> Tolls
-OR
-Faun -> Stag -> Buck
-Names are still being workshopped
+Beads -> Chimes -> Bells -> Tolls (remove tolls?? idk if its needed)
 
 Can be stringed
 
