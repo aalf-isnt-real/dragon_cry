@@ -9,7 +9,7 @@ added some witch feats and a rough idea of what it should be able to do
 added [[Spells & Manoeuvres/Manoeuvre/Stance - Focusing\|Stance - Focusing]]
 added more mechanics to resting
 [[Character Creation/Species/Deer\|Deer]]
-
+Added the [[NPCs/Animal/Okidon\|Okidon]] in the Npcs -> Animals tab
 
 ----------
 
