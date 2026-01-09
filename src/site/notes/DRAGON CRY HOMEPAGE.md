@@ -12,6 +12,7 @@ added more mechanics to resting
 added the [[NPCs/Animal/Okidon\|Okidon]] in the Npcs -> Animals tab
 updated the Bloodhound archetype for [[Classes/Martial/Samurai\|Samurai]]
 added the Bleed condition in [[Combat Rules/Conditions\|Conditions]]
+changed how crits work in [[Combat Rules/2. Attacks\|2. Attacks]]
 
 ----------
 
