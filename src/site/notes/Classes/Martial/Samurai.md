@@ -4,4 +4,4 @@
 
 Ronin, Retainer, Bloodhound
 
-Stance cla
+Stance class

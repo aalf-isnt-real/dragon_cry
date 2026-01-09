@@ -4,4 +4,6 @@
 
 Elemental people
 
-## Liquid Alemer
+
+Construct or Biological
++1 to either STR or FOR
