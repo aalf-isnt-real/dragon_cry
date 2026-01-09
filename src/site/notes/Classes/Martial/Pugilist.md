@@ -3,3 +3,5 @@
 ---
 
 Monk, Bruiser/Brawler, Feral Beast, Kicker
+
+Sance Class
