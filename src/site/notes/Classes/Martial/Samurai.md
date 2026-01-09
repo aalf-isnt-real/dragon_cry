@@ -5,3 +5,9 @@
 Ronin, Retainer, Bloodhound
 
 Stance class
+
+# Archetypes
+## Bloodhound
+
+
+
