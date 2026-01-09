@@ -10,6 +10,7 @@ added [[Spells & Manoeuvres/Manoeuvre/Stance - Focusing\|Stance - Focusing]]
 added more mechanics to resting
 [[Character Creation/Species/Deer\|Deer]]
 Added the [[NPCs/Animal/Okidon\|Okidon]] in the Npcs -> Animals tab
+Updated the Bloodhound archetype for [[Classes/Martial/Samurai\|Samurai]]
 
 ----------
 
