@@ -2,6 +2,17 @@
 {"dg-publish":true,"permalink":"/dragon-cry-homepage/","tags":["gardenEntry"]}
 ---
 
+# Jan 9th 2026
+added Fox subrace to Virfelid
+added [[Feats/All-In Attack\|All-In Attack]] feat
+added some witch feats and a rough idea of what it should be able to do
+added [[Spells & Manoeuvres/Manoeuvre/Stance - Focusing\|Stance - Focusing]]
+added more mechanics to resting
+[[Character Creation/Species/Deer\|Deer]]
+
+
+----------
+
 # Jan 7th 2026
 Added the Adventuring Day folder
 Added some suggestions
