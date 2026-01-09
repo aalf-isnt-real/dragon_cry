@@ -4,9 +4,9 @@
 
 ## Armor
 Increases AR (armor rating)
-Armor has health that acts like dnd5e temp hp
-Armor "breaks" when it reaches 0 durability, reducing AR
-Can be fixed during resting/off time
+Armor has health (called protection) that acts like dnd5e temp hp
+Armor "breaks" when it reaches 0 protection, reducing AR
+Can be fixed during resting/off time (heals protection)
 some armour could have extra effects before breaking, or after breaking
 
 
