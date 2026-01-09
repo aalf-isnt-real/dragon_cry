@@ -6,3 +6,7 @@ ARCHETYPES: Potion Brewer, Hag, Witch Doctor
 
 curses hexes alchemy and shi
 debuffs
+
+Hexes: Resource, Limited Use
+
+BUFFED FAMILIAR
