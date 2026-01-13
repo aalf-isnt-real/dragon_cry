@@ -6,6 +6,7 @@
 added more details to armor mechanics
 did some AR calculation shenanigans
 calculated attack roll averages for every rank
+I forgot when i added [[Combat Rules/Damage Types\|Damage Types]], but it wasnt today lmao
 
 
 # Jan 9th 2026
