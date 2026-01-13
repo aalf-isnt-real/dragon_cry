@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/dragon-cry-homepage/","tags":["gardenEntry"]}
 ---
 
+# Jan 13th 2026
+added more details to armor mechanics
+calculated attack roll averages for every rank
+
 # Jan 9th 2026
 added Fox subrace to Virfelid
 added [[Feats/All-In Attack\|All-In Attack]] feat
