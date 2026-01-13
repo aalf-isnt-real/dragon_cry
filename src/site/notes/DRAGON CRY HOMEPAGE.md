@@ -4,7 +4,9 @@
 
 # Jan 13th 2026
 added more details to armor mechanics
+did some AR calculation shenanigans
 calculated attack roll averages for every rank
+
 
 # Jan 9th 2026
 added Fox subrace to Virfelid
