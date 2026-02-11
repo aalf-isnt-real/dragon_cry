@@ -2,6 +2,19 @@
 {"dg-publish":true,"permalink":"/dragon-cry-homepage/","tags":["gardenEntry"]}
 ---
 
+
+# Feb 11th 2026
+Renamed bard to [[Classes/Specialist/Virtuoso\|Virtuoso]], added archetype names
+Added [[Combat Rules/Reactions\|Reactions]] tab in combat rules
+Added [[Spells & Manoeuvres/Manoeuvre/Armor Breaker\|Armor Breaker]] manoeuvre
+added [[Spells & Manoeuvres/Manoeuvre/Flashfire strike\|flashfire strike]] manoeuvre
+added [[Spells & Manoeuvres/Manoeuvre/Thousand Cuts\|thousand cuts]] manoeuvre
+added [[Spells & Manoeuvres/Spells/Absolute Zero\|absolute zero]] spell
+added [[Spells & Manoeuvres/Spells/Anima Summons\|Anima summons]] and [[Spells & Manoeuvres/Spells/Greater Anima Summons\|Greater anima summons]] spells
+Gave expert's edge feature to wizard, hunter, machinist, scoundrel and virtuoso
+added the burning and madness conditions
+
+
 # Jan 13th 2026
 added more details to armor mechanics
 did some AR calculation shenanigans

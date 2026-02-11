@@ -2,10 +2,29 @@
 {"dg-publish":true,"permalink":"/classes/martial/samurai/"}
 ---
 
+# Planning
 Ronin, Retainer, Bloodhound
 
 Stance class
 BUSHIDO: Buffs samurai stance
+
+# Creation
+
+| **Core abilities**  | Strength OR Agility, Insight              |
+| ------------------- | ----------------------------------------- |
+|                     |                                           |
+| Hit Points at lv1   | 8 + Fort                                  |
+| HP on lv up         | + 5 + fort                                |
+|                     |                                           |
+| Save Proficiencies  | 2 in Ref and 2 in either Vol OR Fort      |
+| Skill points at lv1 | 10 + Kno                                  |
+|                     |                                           |
+| Weapon Training     | Training 2 in all weapons except colossal |
+| Armor Training      | Training 1 in Light and Medium            |
+| Tool Proficiencies  | kys im not dealin with this rn            |
+|                     |                                           |
+| Class DC            | Insight or chosen physical ability        |
+
 
 # Archetypes
 

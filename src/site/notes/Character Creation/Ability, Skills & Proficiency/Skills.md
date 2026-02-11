@@ -25,11 +25,11 @@ Can have up to 6 max proficiency
 - Craft
 - Religion
 - Interfacing
-- 
+- Survival
 - 
 
 
 Romance
 Attune
 Sense
-Survival
+
