@@ -13,7 +13,7 @@ added [[Spells & Manoeuvres/Spells/Absolute Zero\|absolute zero]] spell
 added [[Spells & Manoeuvres/Spells/Anima Summons\|Anima summons]] and [[Spells & Manoeuvres/Spells/Greater Anima Summons\|Greater anima summons]] spells
 Gave expert's edge feature to wizard, hunter, machinist, scoundrel and virtuoso
 added the burning and madness conditions
-
+Added stuff to [[Classes/Martial/Samurai\|Samurai]] page
 
 # Jan 13th 2026
 added more details to armor mechanics
