@@ -20,5 +20,5 @@
 - Psychic
 - Soul
 - Sonic
-- Light / Holy
-- Dark
+- Light / Holy / Aether
+- Dark / Void
