@@ -4,4 +4,5 @@
 
 high Agility or Intuition Prerequisite
 
-grants one free reaction that costs up to 2 AP
+grants a free reaction that costs up to 2 AP
+useable once per round

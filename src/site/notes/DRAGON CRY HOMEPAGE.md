@@ -19,6 +19,7 @@ added [[Spells & Manoeuvres/Spells/Anima Summons\|Anima summons]] and [[Spells &
 Gave expert's edge feature to wizard, hunter, machinist, scoundrel and virtuoso
 added the burning and madness conditions
 Added stuff to [[Classes/Martial/Samurai\|Samurai]] page
+Added [[Feats/General Feats/Reactive\|Reactive]] as a feat
 
 # Jan 13th 2026
 added more details to armor mechanics
