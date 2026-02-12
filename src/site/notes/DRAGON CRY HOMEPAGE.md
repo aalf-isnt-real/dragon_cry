@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/dragon-cry-homepage/","tags":["gardenEntry"]}
 ---
 
+# Feb 12th 2026
+added extra info to help design how AR scales in [[Equipment/Combat Use/Armor & Shields/Armor and Shields (!! MATH NEEDED)\|Armor and Shields (!! MATH NEEDED)]] 
+renamed human to [[Character Creation/Species/STRIDER\|Strider]] (still needs workshopping)
 
 # Feb 11th 2026
 Renamed bard to [[Classes/Specialist/Virtuoso\|Virtuoso]], added archetype names

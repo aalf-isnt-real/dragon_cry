@@ -2,4 +2,5 @@
 {"dg-publish":true,"permalink":"/character-creation/species/insect-arthropod/"}
 ---
 
-+1 AR when unarmored
++2 AR when unarmored
++1 STR

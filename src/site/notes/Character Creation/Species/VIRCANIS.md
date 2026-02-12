@@ -7,12 +7,16 @@ dog/wolf/fox/canid people
 
 ## Fox Subrace
 Small or Medium size
+
+Low Light Vision
+
 +1 in Agi
 -1 to Str or For (your choice)
 +1 prof in Lightfoot and Perceive
+
 bonus die to any roll that requires Hearing
 better jump
-Low Light Vision
+
 omnivorous
 
 ## Dog Subrace

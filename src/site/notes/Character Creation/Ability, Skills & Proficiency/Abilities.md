@@ -50,4 +50,5 @@ stat increase above 3 costs 2 points, cannot go above 5
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 ## Stat Increases
-Ability Increases
+Ability Increases give 3 stat points to allocate
+Increasing an ability or save from 5 to 6 costs 2 Stat Points
