@@ -49,7 +49,5 @@ stat increase above 3 costs 2 points, cannot go above 5
 | 5   | 4   | 3   | 2   | 2   | 2   | -2  | -2  | -3  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
-
-
-
-
+## Stat Increases
+Ability Increases

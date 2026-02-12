@@ -24,7 +24,7 @@ I forgot when i added [[Combat Rules/Damage Types\|Damage Types]], but it wasnt 
 
 # Jan 9th 2026
 added Fox subrace to Virfelid
-added [[Feats/All-In Attack\|All-In Attack]] feat
+added [[Spells & Manoeuvres/Manoeuvre/All-In Attack\|All-In Attack]] feat
 added some witch feats and a rough idea of what it should be able to do
 added [[Spells & Manoeuvres/Manoeuvre/Stance - Focusing\|Stance - Focusing]]
 added more mechanics to resting

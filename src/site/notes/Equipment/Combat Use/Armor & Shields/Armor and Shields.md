@@ -16,10 +16,10 @@ Agility Mod: Full AGI
 
 1 + AGI + Training
 ## Light Armors
-Armor Mod + AGI + Light Armor Training
+Armor base + AGI + Light Armor Training
 ## Medium Armor
-Armor Mod +1/2 AGI + Med. Armor Training
+Armor base +1/2 AGI + Med. Armor Training
 ## Heavy Armor
-Armor Mod + Heavy Armor Training
+Armor base + Heavy Armor Training
 ## Shields
 Can raise a shield
