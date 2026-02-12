@@ -3,8 +3,10 @@
 ---
 
 # Feb 12th 2026
-added extra info to help design how AR scales in [[Equipment/Combat Use/Armor & Shields/Armor and Shields (!! MATH NEEDED)\|Armor and Shields (!! MATH NEEDED)]] 
+added extra info to help design how AR scales in [[Equipment/Combat Use/Armor & Shields/Armor and Shields\|Armor and Shields]] 
 renamed human to [[Character Creation/Species/STRIDER\|Strider]] (still needs workshopping)
+added some more background stuff that wont appear in the wiki to help in designing the game
+added unfinished levelling tables to some classes
 
 # Feb 11th 2026
 Renamed bard to [[Classes/Specialist/Virtuoso\|Virtuoso]], added archetype names

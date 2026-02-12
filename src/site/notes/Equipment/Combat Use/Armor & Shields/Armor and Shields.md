@@ -4,6 +4,16 @@
 
 Armor Base + Agility (up to armor cap) + Armor Training Mod for type you're wearing
 +other bonuses + penalties
+
+
+| Levels  | Recommended AR | Rolls needed to hit (max modifier) | percentages to get hit |
+| ------- | -------------- | ---------------------------------- | ---------------------- |
+| 1 - 4   | 12 - 15        | 2d6: 6 - 9                         | 72% - 28%              |
+| 5 - 8   | 15 - 19        | 3d6: 9 - 13                        | 74% - 26%              |
+| 9 - 12  | 18 - 22        | 4d6: 12 - 16                       | 76% - 33.5%            |
+| 13 - 16 | 22 - 26        | 5d6: 16 - 20                       | 69.5% - 30.5%          |
+| 17 - 20 | 25 - 30        | 6d6: 19 - 24                       | 72% - 28%              |
+
 ## Armor
 Increases AR (armor rating)
 Armor has health (called protection) that acts like dnd5e temp hp

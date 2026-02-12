@@ -3,3 +3,5 @@
 ---
 
 or Magus, Warmage
+
+archetypes: Wizard, Chanter
