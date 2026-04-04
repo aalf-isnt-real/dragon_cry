@@ -2,6 +2,13 @@
 {"dg-publish":true,"permalink":"/dragon-cry-homepage/","tags":["gardenEntry"]}
 ---
 
+# April 3rd 2026
+Added details to how some spellcasters will cast their spells
+Kinda added rules for [[Combat Rules/Resistance\|Resistance]]
+Added [[Spells & Manoeuvres/Manoeuvre/Revenge Counter\|Revenge Counter]]
+Created a Spell Format
+Added the [[Feats/General Feats/Full Body Magician\|Full Body Magician]] Feature
+Updated the [[Classes/Caster/Wizard\|Wizard]] page slightly
 # Feb 12th 2026
 added extra info to help design how AR scales in [[Equipment/Combat Use/Armor & Shields/Armor and Shields\|Armor and Shields]] 
 renamed human to [[Character Creation/Species/STRIDER\|Strider]] (still needs workshopping)

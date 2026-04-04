@@ -3,7 +3,7 @@
 ---
 
 ##### Physical Types:
-- Blunt / Bludgeon / Impact
+- Impact
 - Pierce / Stab / Puncture
 - Cut / Slash
 - Biological (Diseases, Rotting, Bleeding, Radiation, etc)

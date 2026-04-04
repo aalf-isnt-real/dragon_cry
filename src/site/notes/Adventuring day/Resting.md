@@ -4,7 +4,7 @@
 
 Short Rest: 1 Rest Actions
 Day's/Night's Rest: 3 rest actions
-Full Rest (Couple Days): 5 rest actions, maybe more depending on how long part rests
+Full Rest (Couple Days): Regain all Resources except health, 5 rest actions, maybe more depending on how long part rests
 
 REST ACTIONS: 
 tend wounds

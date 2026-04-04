@@ -4,4 +4,6 @@
 
 Druid no wildshape
 
+maybe remove and turn into a cleric domain?
+
 Ocean, Desert, Forest

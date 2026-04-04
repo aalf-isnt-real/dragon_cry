@@ -2,4 +2,10 @@
 {"dg-publish":true,"permalink":"/spells-and-manoeuvres/spells/cantrips/stone-bullet/"}
 ---
 
-Stone Shot
+| Level         | 0        |     |
+| ------------- | -------- | --- |
+| Damage + Type | Impact   |     |
+| Range         |          |     |
+| School        |          |     |
+| Components    | #gesture |     |
+| Tags          |          |     |
